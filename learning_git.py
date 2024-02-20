@@ -3,5 +3,5 @@
 def squer(x):
     return x * x
 
-print('hello')
-print(squer(10))
+def some_add(x,y):
+    return x + y
